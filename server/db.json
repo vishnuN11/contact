@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "kaustubh",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/User_icon_2.svg/2048px-User_icon_2.svg.png",
+      "mobile": "66879778798798",
+      "email": "kaustubh@gmail.com",
+      "company": "it",
+      "title": "web dev",
+      "groupId": "2",
+      "id": "q52Rg54"
+    },
+    {
+      "name": "sachin",
+      "photo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPoAAADKCAMAAAC7SK2iAAAAyVBMVEX+/v4AueUAiKjt7e3////s7Oz5+fny8vLw8PD19fX4+PgAgKLI5OoAiKcAueQAhqcAtOEAs972///y//8Atd4Asd0ou97d8POo4vD/+/rt//8Bi60Afp5VxeEAsdgWt93X+fx10Ojq8/TR7/XT8PWM2+wDl7s8mrQEn8ax2eCZzdkFqM/B8fhAv9227PfA6fBkz+mS2+nR9/u47PSa3+qr6PMzsdBPo7lqs8Z6vMwrkq171+qLws9mr73U7O6X2Olfs8qXytig2uLFzPbyAAATO0lEQVR4nO2dC3PaOhqGBRbYxhhfuJMQbqEpLRSSJktDcnrZ//+jVpJtLOObJMsmZ6ffzM58k+2J9ETSq9eyJAMIUMCGggPnEJBcI3mT5CqV6yRvKWGuk7wV5o0myVUq10gOSE7+eeOyWEAXC2LFplUhu1iVKtavAjhXQQEgLDdWB0CV6+UNUi5ohTnUSd4CYd4EVB1AYrl+nlIsuCzWz+PFxqtAF6tSRUlChwnoVP4X/S+6DPSGmlJsvApqrAqp6OTfM8scGzqLzMEoOsyUuVT0Vhp6msxBCr1BAuLwcoXKNZI3Sa5SuU7yFpXrJG+SXKVyjeSA5AqVU8XClGJBrFg1pdhWrFiVKipeBa9YoFxxuDWooiofbeAv+l/0DPQyRJYBvSGITuVM6AqFrlDoXk5+7FtYKictDXQqJ7gKha6E6BqRMOAuhzgm3Um36y6XqqppsSrQxTZjxeqxYvWw2EgVtIsqnGf0CkUWJe58+2u9mO4Gs1mv5zh9x+nNZrvpYT36tr9fapoWq0L29NIqML34f4DSh5umDvejt92s59i2XbsM9DP8R5i+jeYuQb8o9t/q5hDL8Nvb7s5JYI79Cfqzw/O8q2n/B+hjCOejaS+fmuLvDxajoapVg55mpmlt5zayKNeW88edQ7A77Oy49XvT0ZCY3U",
+      "mobile": "7972902011",
+      "email": "sachin@gmail.com",
+      "company": "home",
+      "title": "enjoy",
+      "groupId": "1",
+      "id": "E-0ZPbD"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "family"
+    }
+  ]
+}
